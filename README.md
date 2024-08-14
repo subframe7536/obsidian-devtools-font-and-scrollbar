@@ -4,8 +4,8 @@ Make ChromeDevTools' fonts match your settings and round the scrollbar
 
 ### Effect on Windows
 
-|                           v4                           |                           v5                            |
-| :----------------------------------------------------: | :-----------------------------------------------------: |
+|                         before                          |                          after                           |
+| :-----------------------------------------------------: | :-------------------------------------------------------: |
 | <img src="./img/before.webp" height="300" alt="before"> | <img src="./img/after.webp" height="300" alt="after"> |
 |     font family is `consolas`, sharp scrollbar      |             font family is [`Maple Mono`](https://github.com/subframe7536/maple-font), rounded scrollbar             |
 
