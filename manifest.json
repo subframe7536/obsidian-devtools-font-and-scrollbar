@@ -1,0 +1,10 @@
+{
+  "id": "devtools-font-and-scrollbar",
+  "name": "Devtools Font & Scrollbar",
+  "description": "Make ChromeDevTools' fonts match your settings and round the scrollbar",
+  "version": "0.1.0",
+  "author": "subframe7536",
+  "authorUrl": "https://github.com/subframe7536/",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.9.11"
+}
